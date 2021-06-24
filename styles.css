@@ -1,0 +1,202 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+#imageslider{
+    background-image: url("Resources/imageslider.png");
+    background-position: center;
+    height: 540px;
+}
+
+.icon-spacing{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+ion-icon {
+    --ionicon-stroke-width: 32px;
+    color: white;
+  }
+
+.center{
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+.btnCenter{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnCenter button{
+    background-color: white;
+    color: yellowgreen;
+    border-radius: 6 px;
+    border-color: white;
+    margin-top: 100px;
+}
+
+.footer-hours span{
+    margin-right: 10px;
+    border-right: 1px solid white;
+}
+.column {
+    float: left;
+    width: 14.28%;
+    padding: 10px;
+    border-right: 1px solid white;
+    color: white;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+#socials{
+    color: white;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#socials i{
+    margin-right: 5px;
+    margin-left: 15px;
+}
+
+#menu button{
+    margin-right: 30px; 
+    background-color: transparent; 
+    color: white; 
+    border: 0px;
+}
+
+#menu {
+    margin-right: 30px; 
+    color: white; 
+}
+
+#heading1{
+    font: small; 
+    font-family: AnandaHastakchyar;
+}
+
+#heading2{
+    margin-top: 20px; 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+#main-body{
+    margin-top: 100px; 
+    margin-bottom: 100px; 
+}
+.col-4 img{
+    height: 274px; 
+    margin-left: -12px; 
+    margin-top: -1px; 
+    margin-bottom: -10px;
+}
+
+#main-body .row{
+    border: 1px solid green;
+    margin-bottom: 25px;
+}
+
+#main-body span{
+    font-size: 16px; 
+    color: black;
+}
+
+.button1{
+    margin-top: 25px; 
+    background-color: green; 
+    color: white; 
+    border: 1px solid green;
+}
+
+.button0{
+    margin-top: 25px; 
+    background-color: white; 
+    color: green; 
+    border-color: green;
+}
+
+#main-body .col-8{
+    border-color: black;
+}
+
+.col-8 div{
+    margin-bottom: 20px;
+}
+
+#lower-body{
+    background-color: green;
+}
+
+#lower-body .col-4{
+    text-align: center; 
+    color: white; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#lower-body .col-8{
+    margin-top: 10px;
+}
+
+h2{
+    color: green; 
+    font-size: medium;
+}
+
+#lower-body .container-fluid{
+    margin-top: 20px; 
+    background-color: black;
+}
+
+.icon-green{
+    font-size: 14px; 
+    color: green;
+    margin-bottom: 20px;
+}
+
+.icon-green span{
+    color: white;
+    margin-left: 5px;
+}
+
+footer{
+    background-color: white; 
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+@font-face {
+    font-family: AnandaHastakchyar;
+    src: url("AnandaHastakchyar.ttf");
+}
+
+
+
+  
+  
+.Hand_Make_Ingredients {
+    font-size: 26px;
+    font-family: "OpenSans";
+    color: rgb(18, 168, 78);
+    font-weight: bold;
+    line-height: 1.2;
+    position: absolute;
+    left: 498.937px;
+    top: 667.176px;
+    width: 290px;
+    height: 27px;
+    z-index: 178;
+  }
+  
+  
